@@ -1,5 +1,4 @@
 <p>Repositório destinado aos arquivos do curso de Vue.js (versão 3.8.0) do professor Ralf Lima no YouTube, <a href="https://www.youtube.com/playlist?list=PLWXw8Gu52TRL3sY3esdsH2PxYiRdXwfvX">clique aqui</a> para acessar a playlist completa.</p>
-  <br>
   <div align="justify">
   <h3>Tópicos abordados:</h3>
   
